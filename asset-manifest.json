@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/rotas-no-react/static/css/main.a617e044.chunk.css",
-    "main.js": "/rotas-no-react/static/js/main.b1082e8c.chunk.js",
-    "main.js.map": "/rotas-no-react/static/js/main.b1082e8c.chunk.js.map",
+    "main.js": "/rotas-no-react/static/js/main.b48119c9.chunk.js",
+    "main.js.map": "/rotas-no-react/static/js/main.b48119c9.chunk.js.map",
     "runtime-main.js": "/rotas-no-react/static/js/runtime-main.8dec38bd.js",
     "runtime-main.js.map": "/rotas-no-react/static/js/runtime-main.8dec38bd.js.map",
     "static/js/2.88de965b.chunk.js": "/rotas-no-react/static/js/2.88de965b.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.8dec38bd.js",
     "static/js/2.88de965b.chunk.js",
     "static/css/main.a617e044.chunk.css",
-    "static/js/main.b1082e8c.chunk.js"
+    "static/js/main.b48119c9.chunk.js"
   ]
 }
