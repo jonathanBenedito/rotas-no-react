@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rotas-no-react/static/css/main.a617e044.chunk.css",
+    "main.js": "/rotas-no-react/static/js/main.b1082e8c.chunk.js",
+    "main.js.map": "/rotas-no-react/static/js/main.b1082e8c.chunk.js.map",
+    "runtime-main.js": "/rotas-no-react/static/js/runtime-main.8dec38bd.js",
+    "runtime-main.js.map": "/rotas-no-react/static/js/runtime-main.8dec38bd.js.map",
+    "static/js/2.88de965b.chunk.js": "/rotas-no-react/static/js/2.88de965b.chunk.js",
+    "static/js/2.88de965b.chunk.js.map": "/rotas-no-react/static/js/2.88de965b.chunk.js.map",
+    "static/js/3.0775ecff.chunk.js": "/rotas-no-react/static/js/3.0775ecff.chunk.js",
+    "static/js/3.0775ecff.chunk.js.map": "/rotas-no-react/static/js/3.0775ecff.chunk.js.map",
+    "index.html": "/rotas-no-react/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/rotas-no-react/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.88de965b.chunk.js.LICENSE.txt": "/rotas-no-react/static/js/2.88de965b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8dec38bd.js",
+    "static/js/2.88de965b.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.b1082e8c.chunk.js"
+  ]
+}
